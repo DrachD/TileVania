@@ -5,7 +5,7 @@
 
 Я реализовал систему достижения (Achivements) для героя. Как по мне получилось очень удачно, ибо мы можем с легкостью расширить код, добавить новые достижения.
 
-<img width="800" height="600" src="https://user-images.githubusercontent.com/14277702/113231323-a6c22d00-92a3-11eb-8a20-ba11dbc1df6e.png">
-<img width="800" height="600" src="https://user-images.githubusercontent.com/14277702/113231405-d96c2580-92a3-11eb-8e24-74b36a11aff2.png">
-<img width="800" height="600" src="https://user-images.githubusercontent.com/14277702/113231429-e426ba80-92a3-11eb-9e29-a40281e71c97.png">
-<img width="800" height="600" src="https://user-images.githubusercontent.com/14277702/113231460-f6a0f400-92a3-11eb-9015-353a9a659c7d.png">
+<img width="800" height="400" src="https://user-images.githubusercontent.com/14277702/113231323-a6c22d00-92a3-11eb-8a20-ba11dbc1df6e.png">
+<img width="800" height="400" src="https://user-images.githubusercontent.com/14277702/113231405-d96c2580-92a3-11eb-8e24-74b36a11aff2.png">
+<img width="800" height="400" src="https://user-images.githubusercontent.com/14277702/113231429-e426ba80-92a3-11eb-9e29-a40281e71c97.png">
+<img width="800" height="400" src="https://user-images.githubusercontent.com/14277702/113231460-f6a0f400-92a3-11eb-9015-353a9a659c7d.png">
