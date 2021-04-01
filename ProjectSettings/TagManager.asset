@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Item
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Background
+  - Foreground
+  - Player
+  - Enemy
+  - Slime
+  - Coin
+  - Item
+  - BackgroundTilemap
+  - Button
+  - Box
+  - Door
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Door
+    uniqueID: 2943884373
+    locked: 0
+  - name: Background
+    uniqueID: 3369300853
+    locked: 0
+  - name: Player
+    uniqueID: 449791241
+    locked: 0
+  - name: Button
+    uniqueID: 1793909431
+    locked: 0
+  - name: Enemy
+    uniqueID: 3393818557
+    locked: 0
+  - name: Foreground
+    uniqueID: 3963903071
+    locked: 0
+  - name: Health Bar
+    uniqueID: 493928239
+    locked: 0

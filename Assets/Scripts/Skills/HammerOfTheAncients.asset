@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a08f50f7a525f04380f5c9403ba6709, type: 3}
+  m_Name: HammerOfTheAncients
+  m_EditorClassIdentifier: 
+  SkillName: HammerOfTheAncients
+  Icon: {fileID: 7304926807755935127, guid: 78caf996d71aeb94188d0a390d42bcaa, type: 3}
+  BarbarianSkill: 3
