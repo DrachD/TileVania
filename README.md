@@ -5,4 +5,4 @@
 
 Я реализовал систему достижения (Achivements) для героя. Как по мне получилось очень удачно, ибо мы можем с легкостью расширить код, добавить новые достижения.
 
-<img width="600" height="600 src="https://user-images.githubusercontent.com/14277702/113231323-a6c22d00-92a3-11eb-8a20-ba11dbc1df6e.png">
+<img width="600" height="600" src="https://user-images.githubusercontent.com/14277702/113231323-a6c22d00-92a3-11eb-8a20-ba11dbc1df6e.png">
